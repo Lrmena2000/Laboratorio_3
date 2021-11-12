@@ -1,0 +1,8 @@
+1. Abrir la carpeta "Simulación"
+2. Abrir el archivo "Lab3.rssln"
+3. Entrar en la pestaña de simulación
+4. Oprimir el botón "play"
+
+
+Nota: La programación implementada puede ser revisada en la pestaña de "Rapid" o
+en el archivo de texto adjuntado junto con este archivo
